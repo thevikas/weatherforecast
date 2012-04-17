@@ -1,0 +1,6 @@
+The project is my first android project.
+# The app will fetch district level weather forecast data from the india metrological department site and show it in the UI.
+# The object is also to save this data and see it offline when needed.
+# To update the forecast of saved places.
+# Automaticaly locale the district based on current gps position.
+
