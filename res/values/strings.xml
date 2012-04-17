@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Hello2Activity!</string>
+    <string name="app_name">Hello2</string>
+    <string name="thing1">Place Name</string>
+    <string name="button1">Search</string>
+    <string name="cloud">Cloud Cover</string>
+    <string name="windspeed">Wind Speed</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="maxtemp">Max Temperature</string>
+    <string name="mintemp">Min Temperature</string>
+    
+    <string name="backday">Back Day</string>
+    <string name="nextday">Next Day</string>
+
+</resources>
